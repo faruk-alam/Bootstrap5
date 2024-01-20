@@ -1,0 +1,34 @@
+Bootstrap is a powerful front-end framework for faster and easier web development. It includes HTML and CSS based 
+design templates for creating common user interface components like forms, buttons, navigations, dropdowns, 
+alerts, modals, tabs, accordions, carousels, tooltips, and so on.
+Bootstrap gives you ability to create flexible and responsive web layouts with much less efforts.
+Bootstrap was originally created by a designer and a developer at Twitter in mid-2010. Before being an 
+open-sourced framework, Bootstrap was known as Twitter Blueprint.
+
+Advantages of Using Bootstrap:
+Save lots of time 
+Responsive features 
+Consistent design 
+Easy to use
+Compatible with browsers 
+Open Source
+
+Getting Started with Bootstrap:
+Creating Your First Web Page with Bootstrap- Now we're going to create a basic Bootstrap template by including the 
+Bootstrap CSS and JS files via CDN.
+CDN via jsDelivr
+Skip the download with jsDelivr to deliver cached version of Bootstrap’s compiled CSS and JS to your project.
+enviroment setup:
+Inside head tags-
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+Before closing body tags-
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+
+Bootstrap5 new features:
+Bootstrap5 has dropped jquery.
+form has been revamped.
+right to left(RTL) support added.
+New utility classes (positioning,font size,border radius etc).
+Minor changes to some components and grid.
+
+Bootstrap5 has two new components- Offcanvas and accordions

@@ -1,0 +1,25 @@
+Bootstrap Typography:
+
+Working with Headings
+You can define all HTML headings, <h1> through <h6> — In the same way you define in simple HTML document. 
+You can also utilize the heading classes .h1 through .h6 on other elements, if you want to apply the style 
+on element's text same as headings.
+
+Display Headings
+Bootstrap also provides display headings that can be used when you need a heading to stand out. Display 
+headings are displayed in larger font-size but lighter font-weight.
+Six different display headings are available.
+
+Working with Paragraphs
+Bootstrap's global default font-size is 1rem (typically 16px), with a line-height of 1.5 (typically 24px),
+which is applied to the <body> element as well as all the paragraphs i.e. the <p> elements. In addition to
+that margin-bottom of 1rem is also applied to all the paragraphs.
+
+You can also make a paragraph stand out by adding the class .lead on it.
+
+Color
+Bootstrap is supported by an extensive color system that themes our styles and components. This enables 
+more comprehensive customization and extension for any project.
+Colors are the powerful method of conveying important information in website design.
+Bootstrap has handful of emphasis utility classes that can be used for this purpose such as showing 
+success message in green color, warning or error message in red color, etc.

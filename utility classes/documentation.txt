@@ -1,0 +1,12 @@
+Utilities for layout:
+For faster mobile-friendly and responsive development, Bootstrap includes dozens of utility classes for 
+showing, hiding, aligning, and spacing content.
+Margin and padding
+Use the margin and padding spacing utilities to control how elements and components are spaced and sized. 
+Bootstrap includes a six-level scale for spacing utilities, based on a 1rem value default $spacer variable. 
+Choose values for all viewports (e.g., .me-3 for margin-right: 1rem in LTR), or pick responsive variants 
+to target specific viewports (e.g., .me-md-3 for margin-right: 1rem —in LTR— starting at the md breakpoint).
+
+Borders
+Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons,
+ or any other element.

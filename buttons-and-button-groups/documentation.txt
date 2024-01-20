@@ -1,0 +1,29 @@
+Creating Buttons with Bootstrap:
+Buttons are the integral part of a website and application. They are used for various purposes like, submit 
+or reset an HTML form, performing interactive actions such as showing or hiding something on a web page on 
+click of the button, redirecting user to another page, and so on. Bootstrap provides a quick and easy way 
+to create and customize the buttons.
+
+Bootstrap Button Styles
+Different classes are available in Bootstrap for styling the buttons as well as to indicate the different 
+states or semantic. Button styles can be applied to any element. However, it is applied normally to the <a>,
+<input>, and <button> elements for the best rendering.
+
+Changing the Sizes of Buttons
+Bootstrap gives you option further to scaling a button up or down.
+To make buttons larger add an extra class .btn-lg to the buttons,
+Similarly, to make buttons smaller add an extra class .btn-sm to the buttons.
+
+Outline buttons
+In need of a button, but not the hefty background colors they bring? Replace the default modifier classes 
+with the .btn-outline-* ones to remove all background images and colors on any button.
+
+Bootstrap Disabled Buttons
+Sometimes we need to disable a button for certain reasons, for example, a user in case is not eligible to 
+perform this particular action, or we want to ensure that user should performed all other required actions 
+before proceed to this particular action. Let's see how to do that.
+
+Creating Disabled Buttons Using Button and Input Element
+Buttons created through <button> or <input> tag can be disabled by adding the disabled attribute to the 
+respective element.
+Disabled buttons have pointer-events: none applied to, preventing hover and active states from triggering.
